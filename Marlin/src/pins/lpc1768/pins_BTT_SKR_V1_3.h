@@ -50,6 +50,7 @@
 #define X_STEP_PIN         P2_02
 #define X_DIR_PIN          P2_06
 #define X_ENABLE_PIN       P2_01
+#define X_CS_PIN           P1_17
 #ifndef X_CS_PIN
   #define X_CS_PIN         P1_17
 #endif
@@ -57,6 +58,7 @@
 #define Y_STEP_PIN         P0_19
 #define Y_DIR_PIN          P0_20
 #define Y_ENABLE_PIN       P2_08
+#define Y_CS_PIN           P1_15
 #ifndef Y_CS_PIN
   #define Y_CS_PIN         P1_15
 #endif
