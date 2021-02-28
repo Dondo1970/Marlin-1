@@ -9,7 +9,7 @@
             "name": "PlatformIO",
             "includePath": [
                 "w:/Andrea/STL/Marlin/Marlin-1/Marlin",
-                "w:/Andrea/STL/Marlin/Marlin-1/.pio/libdeps/LPC1768/U8glib-HAL_ID1932/src",
+                "w:/Andrea/STL/Marlin/Marlin-1/.pio/libdeps/LPC1768/U8glib-HAL/src",
                 "C:/Users/Dondo/.platformio/lib/TMCStepper_ID5513/src",
                 "C:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
                 "w:/Andrea/STL/Marlin/Marlin-1/Marlin/src/HAL/LPC1768/include",
@@ -18,7 +18,6 @@
                 "C:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
                 "C:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
                 "C:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
-                "w:/Andrea/STL/Marlin/Marlin-1/.pio/libdeps/LPC1768/TMCStepper/src",
                 "C:/Users/Dondo/.platformio/lib/Adafruit BusIO",
                 "C:/Users/Dondo/.platformio/lib/Adafruit GFX Library",
                 "C:/Users/Dondo/.platformio/packages/tool-unity",
@@ -28,7 +27,7 @@
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
                     "w:/Andrea/STL/Marlin/Marlin-1/Marlin",
-                    "w:/Andrea/STL/Marlin/Marlin-1/.pio/libdeps/LPC1768/U8glib-HAL_ID1932/src",
+                    "w:/Andrea/STL/Marlin/Marlin-1/.pio/libdeps/LPC1768/U8glib-HAL/src",
                     "C:/Users/Dondo/.platformio/lib/TMCStepper_ID5513/src",
                     "C:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
                     "w:/Andrea/STL/Marlin/Marlin-1/Marlin/src/HAL/LPC1768/include",
@@ -37,7 +36,6 @@
                     "C:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
                     "C:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
                     "C:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
-                    "w:/Andrea/STL/Marlin/Marlin-1/.pio/libdeps/LPC1768/TMCStepper/src",
                     "C:/Users/Dondo/.platformio/lib/Adafruit BusIO",
                     "C:/Users/Dondo/.platformio/lib/Adafruit GFX Library",
                     "C:/Users/Dondo/.platformio/packages/tool-unity",

@@ -95,11 +95,6 @@ void TFT_FSMC::Init() {
     dma_set_priority(FSMC_DMA_DEV, FSMC_DMA_CHANNEL, DMA_PRIORITY_MEDIUM);
   #endif
 
-<<<<<<<< HEAD:Marlin/src/HAL/STM32F1/tft/tft_fsmc.cpp
-========
-void LCD_IO_Init(uint8_t cs, uint8_t rs) {
-  uint32_t controllerAddress;
->>>>>>>> 2.0.x:Marlin/src/HAL/STM32F1/dogm/u8g_com_stm32duino_fsmc.cpp
   struct fsmc_nor_psram_reg_map* fsmcPsramRegion;
 
   if (fsmcInit) return;

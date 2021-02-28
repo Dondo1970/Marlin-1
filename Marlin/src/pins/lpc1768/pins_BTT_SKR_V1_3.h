@@ -125,16 +125,10 @@
   #define E0_CS_PIN                        P1_08
 #endif
 
-//#ifndef E1_CS_PIN
-  //#define E1_CS_PIN                        P1_01
-//#endif
-
-#define Z2_STEP_PIN        P0_01
-#define Z2_DIR_PIN         P0_00
-#define Z2_ENABLE_PIN      P0_10
-#ifndef Z2_CS_PIN
-  #define Z2_CS_PIN        P1_01
+#ifndef E1_CS_PIN
+  #define E1_CS_PIN                        P1_01
 #endif
+
 //
 // Software SPI pins for TMC2130 stepper drivers
 //
@@ -187,8 +181,6 @@
   #define E1_SERIAL_TX_PIN                 P1_04
   #define E1_SERIAL_RX_PIN                 P1_01
 
-  #define Z2_SERIAL_TX_PIN P1_04
-  #define Z2_SERIAL_RX_PIN P1_01
   // Reduce baud rate to improve software serial reliability
   #define TMC_BAUD_RATE                    19200
 #endif

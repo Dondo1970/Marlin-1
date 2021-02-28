@@ -21,24 +21,15 @@
  */
 
 /**
-<<<<<<< HEAD:Marlin/src/lcd/extui_anycubic_i3mega_lcd.cpp
- * extui_anycubic_i3mega_lcd.cpp
-=======
  * anycubic_i3mega_lcd.cpp
->>>>>>> 2.0.x:Marlin/src/lcd/extui/anycubic_i3mega_lcd.cpp
  */
 
 #include "../../inc/MarlinConfigPre.h"
 
 #if ENABLED(ANYCUBIC_LCD_I3MEGA)
 
-<<<<<<< HEAD:Marlin/src/lcd/extui_anycubic_i3mega_lcd.cpp
-#include "extui/lib/anycubic_i3mega/anycubic_i3mega_lcd.h"
-#include "extui/ui_api.h"
-=======
 #include "lib/anycubic_i3mega/anycubic_i3mega_lcd.h"
 #include "ui_api.h"
->>>>>>> 2.0.x:Marlin/src/lcd/extui/anycubic_i3mega_lcd.cpp
 
 #include <Arduino.h>    // for the ::tone() call
 
