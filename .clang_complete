@@ -1,0 +1,31 @@
+-ID:/Download/BIGTREETECH-SKR-V1.3-master/BIGTREETECH-SKR-V1.3-master/BTT SKR V1.3/firmware/BTT_V_1_3/Marlin
+-ID:/Download/BIGTREETECH-SKR-V1.3-master/BIGTREETECH-SKR-V1.3-master/BTT SKR V1.3/firmware/BTT_V_1_3/.pio/libdeps/LPC1768/SailfishLCD
+-ID:/Download/BIGTREETECH-SKR-V1.3-master/BIGTREETECH-SKR-V1.3-master/BTT SKR V1.3/firmware/BTT_V_1_3/.pio/libdeps/LPC1768/Adafruit NeoPixel
+-ID:/Download/BIGTREETECH-SKR-V1.3-master/BIGTREETECH-SKR-V1.3-master/BTT SKR V1.3/firmware/BTT_V_1_3/.pio/libdeps/LPC1768/TMCStepper/src
+-ID:/Download/BIGTREETECH-SKR-V1.3-master/BIGTREETECH-SKR-V1.3-master/BTT SKR V1.3/firmware/BTT_V_1_3/.pio/libdeps/LPC1768/U8glib-HAL_ID1932/src
+-IC:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src
+-IC:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src
+-ID:/Download/BIGTREETECH-SKR-V1.3-master/BIGTREETECH-SKR-V1.3-master/BTT SKR V1.3/firmware/BTT_V_1_3/Marlin/src/HAL/HAL_LPC1768/include
+-ID:/Download/BIGTREETECH-SKR-V1.3-master/BIGTREETECH-SKR-V1.3-master/BTT SKR V1.3/firmware/BTT_V_1_3/Marlin/src/HAL/HAL_LPC1768/u8g
+-IC:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/cores/arduino
+-IC:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include
+-IC:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib
+-IC:/Users/Dondo/.platformio/packages/framework-arduino-lpc176x/system/lpc176x
+-IC:/Users/Dondo/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include
+-IC:/Users/Dondo/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1
+-IC:/Users/Dondo/.platformio/packages/toolchain-gccarmnoneeabi/arm-none-eabi/include/c++/9.2.1/arm-none-eabi
+-IC:/Users/Dondo/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include
+-IC:/Users/Dondo/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/include-fixed
+-IC:/Users/Dondo/.platformio/packages/tool-unity
+-ID:/Download/BIGTREETECH-SKR-V1.3-master/BIGTREETECH-SKR-V1.3-master/BTT SKR V1.3/firmware/BTT_V_1_3/include
+-DLPC176X_FRAMEWORK
+-DTARGET_LPC1768
+-DF_CPU=100000000L
+-DMCU_LPC1768
+-DPIO_PLATFORM_VERSION=1001UL
+-DPIO_FRAMEWORK_VERSION=2002UL
+-DPLATFORMIO=40201
+-DU8G_HAL_LINKS
+-D__MARLIN_FIRMWARE__
+-DARDUINO_ARCH_LPC176X
+-DARDUINOLPC=10805
