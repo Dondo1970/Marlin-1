@@ -9,7 +9,7 @@
             "name": "PlatformIO",
             "includePath": [
                 "c:/Users/andrea.EXCEL/Documents/GitHub/Marlin-1/Marlin",
-                "c:/Users/andrea.EXCEL/Documents/GitHub/Marlin-1/.pio/libdeps/LPC1768/U8glib-HAL/src",
+                "C:/Users/andrea.EXCEL/.platformio/lib/U8glib-HAL/src",
                 "C:/Users/andrea.EXCEL/.platformio/lib/TMCStepper/src",
                 "C:/Users/andrea.EXCEL/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
                 "c:/Users/andrea.EXCEL/Documents/GitHub/Marlin-1/Marlin/src/HAL/LPC1768/include",
@@ -18,8 +18,10 @@
                 "C:/Users/andrea.EXCEL/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
                 "C:/Users/andrea.EXCEL/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
                 "C:/Users/andrea.EXCEL/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                "C:/Users/andrea.EXCEL/.platformio/lib/ArduinoJson/src",
+                "C:/Users/andrea.EXCEL/.platformio/lib/RapidJSON",
                 "C:/Users/andrea.EXCEL/.platformio/lib/Time_ID44",
-                "C:/Users/andrea.EXCEL/.platformio/lib/_tmp_installing-4plyiyd7-package",
+                "C:/Users/andrea.EXCEL/.platformio/lib/tiny-AES-c",
                 "C:/Users/andrea.EXCEL/.platformio/packages/tool-unity",
                 ""
             ],
@@ -27,7 +29,7 @@
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
                     "c:/Users/andrea.EXCEL/Documents/GitHub/Marlin-1/Marlin",
-                    "c:/Users/andrea.EXCEL/Documents/GitHub/Marlin-1/.pio/libdeps/LPC1768/U8glib-HAL/src",
+                    "C:/Users/andrea.EXCEL/.platformio/lib/U8glib-HAL/src",
                     "C:/Users/andrea.EXCEL/.platformio/lib/TMCStepper/src",
                     "C:/Users/andrea.EXCEL/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
                     "c:/Users/andrea.EXCEL/Documents/GitHub/Marlin-1/Marlin/src/HAL/LPC1768/include",
@@ -36,8 +38,10 @@
                     "C:/Users/andrea.EXCEL/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
                     "C:/Users/andrea.EXCEL/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
                     "C:/Users/andrea.EXCEL/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                    "C:/Users/andrea.EXCEL/.platformio/lib/ArduinoJson/src",
+                    "C:/Users/andrea.EXCEL/.platformio/lib/RapidJSON",
                     "C:/Users/andrea.EXCEL/.platformio/lib/Time_ID44",
-                    "C:/Users/andrea.EXCEL/.platformio/lib/_tmp_installing-4plyiyd7-package",
+                    "C:/Users/andrea.EXCEL/.platformio/lib/tiny-AES-c",
                     "C:/Users/andrea.EXCEL/.platformio/packages/tool-unity",
                     ""
                 ]
