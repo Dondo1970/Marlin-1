@@ -12,10 +12,10 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "w:/Andrea/STL/Marlin/Marlin-1/.pio/build/LPC1768/firmware.elf",
+            "executable": "c:/Users/andrea.EXCEL/Documents/GitHub/Marlin-1/.pio/build/LPC1768/firmware.elf",
             "projectEnvName": "LPC1768",
-            "toolchainBinDir": "C:/Users/Dondo/.platformio/packages/toolchain-gccarmnoneeabi/bin",
-            "svdPath": "C:/Users/Dondo/.platformio/platforms/nxplpc-arduino-lpc176x/misc/svd/LPC176x5x_v0.2.svd",
+            "toolchainBinDir": "C:/Users/andrea.EXCEL/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "svdPath": "C:/Users/andrea.EXCEL/.platformio/platforms/nxplpc-arduino-lpc176x/misc/svd/LPC176x5x_v0.2.svd",
             "preLaunchTask": {
                 "type": "PlatformIO",
                 "task": "Pre-Debug (LPC1768)"
@@ -26,10 +26,10 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "w:/Andrea/STL/Marlin/Marlin-1/.pio/build/LPC1768/firmware.elf",
+            "executable": "c:/Users/andrea.EXCEL/Documents/GitHub/Marlin-1/.pio/build/LPC1768/firmware.elf",
             "projectEnvName": "LPC1768",
-            "toolchainBinDir": "C:/Users/Dondo/.platformio/packages/toolchain-gccarmnoneeabi/bin",
-            "svdPath": "C:/Users/Dondo/.platformio/platforms/nxplpc-arduino-lpc176x/misc/svd/LPC176x5x_v0.2.svd",
+            "toolchainBinDir": "C:/Users/andrea.EXCEL/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "svdPath": "C:/Users/andrea.EXCEL/.platformio/platforms/nxplpc-arduino-lpc176x/misc/svd/LPC176x5x_v0.2.svd",
             "internalConsoleOptions": "openOnSessionStart"
         }
     ]
